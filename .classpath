@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/李珮慈/Desktop/Java_Function/jar/javafx-media-13-ea+8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/李珮慈/Desktop/Java_Function/jar/javafx-swing-13-ea+8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/李珮慈/Desktop/Java_Function/jar/jaudiotagger-2.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/李珮慈/Desktop/Java_Function/jar/jlayer-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/李珮慈/Desktop/Java_Function/jar/tritonus-utils.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
